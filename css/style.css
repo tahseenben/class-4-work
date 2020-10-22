@@ -19,6 +19,10 @@ header{
     flex-wrap: wrap;
     align-items: center;
 }
+.container p {
+    color: #615f5f;
+    margin-bottom: 30px;
+}
 
 .logo {
     width: 20%;
